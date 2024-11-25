@@ -1,15 +1,16 @@
 # MNIST Digit Recognition with PyTorch and Streamlit
-An interactive web application that recognizes hand-drawn digits using a Convolutional Neural Network (CNN) trained on the MNIST dataset. Users can draw digits directly in the browser and get real-time predictions.
+An interactive web application that recognizes hand-drawn digits using a Convolutional Neural Network (CNN) trained on the MNIST dataset. 
+Users can draw digits directly in the browser and get real-time predictions.
 ## ⭐ Features
-- Interactive drawing canvas
- Real-time digit recognition
- Pre-trained CNN model (~99.60% accuracy)
- Simple and intuitive user interface
+1. Interactive drawing canvas
+2. Real-time digit recognition
+3. Pre-trained CNN model (~99.60% accuracy)
+4. Simple and intuitive user interface
 ## 🛠️ Technologies Used
-- PyTorch - Deep Learning framework
- Streamlit - Web interface
- torchvision - Image processing and datasets
- streamlit-drawable-canvas - Drawing interface
+1. PyTorch - Deep Learning framework
+2. Streamlit - Web interface
+3. torchvision - Image processing and datasets
+4. streamlit-drawable-canvas - Drawing interface
 ## 📋 Prerequisites
 - Python 3.8+
  pip package manager
