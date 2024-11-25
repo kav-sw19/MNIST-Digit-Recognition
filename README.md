@@ -14,6 +14,7 @@ Users can draw digits directly in the browser and get real-time predictions.
 ## 📋 Prerequisites
 - Python 3.8+
  pip package manager
+If any errors do occur, use Python 3.9.13 (Version I used)
 ## 🔧 Installation
 1. Clone the repository
 2. Install required packages - Do so entering the following in bash:
