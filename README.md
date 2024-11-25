@@ -29,7 +29,10 @@ If any errors do occur, use Python 3.9.13 (Version I used)
 
 ## 🏋️‍♂️ Training the Model
 Note that the model has already been trained and stored on the .pth file.
-Has execute 20 epochs and has ~99.60% training accuracy and ~99.20% validation accuracy
+
+Has execute 20 epochs and has ~99.60% training accuracy and ~99.20% validation accuracy.
+
 To train the model from scratch:
     python train_model.py
+    
 Feel free to change the constraints for training by amending the n_epochs and patience variables in train_model.py
